@@ -18,7 +18,6 @@ import { Background } from '../../components/Background';
 import { ListHeader } from '../../components/ListHeader';
 import { ButtonIcon } from '../../components/ButtonIcon';
 import { Member } from '../../components/Member';
-import { Header } from '../../components/Header';
 
 export function AppointmentDetails(){
   const members = [
