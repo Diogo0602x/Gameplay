@@ -17,7 +17,7 @@ export function Profile() {
           </Text>
           
           <Text style={styles.username}>
-            Diogo 
+            Diogo
           </Text>
         </View>
 
@@ -28,5 +28,4 @@ export function Profile() {
 
     </View>
   )
-
 }
