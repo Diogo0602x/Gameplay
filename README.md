@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="GamePlay" height="80" title="Plant Manager" src=".github/logo.png" />
+  <img alt="GamePlay" height="80" title="Plant Manager" src="/logo.png" />
 </h1>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 
-![cover](.github/cover.png?style=flat)
+![cover](cover.png?style=flat)
 
 
 ## 💻 Projeto
